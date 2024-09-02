@@ -44,4 +44,5 @@ button{
     border-radius: 10px;
     cursor: pointer;
     flex-wrap: wrap;
+    text-align: center;
 }
